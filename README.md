@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Shaked Sisso! 👋
-
+<h1> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shaked Sisso!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </p>
 Motivated software developer skilled in **C/C++, Python, and C#**, always eager to learn new technologies and tackle exciting challenges.
 
 - 🌱 Currently studying: **Practical Engineering** in ICT & Cyber Applications
 - 🔭 I'm working on: Collaborative development tools and mobile games
-- 📫 Reach me: [sisso1011@gmail.com](mailto:sisso1011@gmail.com)
-- ⚡ Fun fact: I volunteered as a student mentor, guiding 17 year-olds in advanced programming concepts!
+- 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-shakedsisso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakedsisso/)](https://www.linkedin.com/in/shakedsisso/)
+[![Gmail Badge](https://img.shields.io/badge/-sisso1011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sisso1011@gmail.com)](mailto:sisso1011@gmail.com)
+
+- ⚡ Fun fact: I volunteered as a student mentor, guiding younger teens in advanced programming concepts!
 
 ---
 
@@ -51,16 +53,3 @@ Motivated software developer skilled in **C/C++, Python, and C#**, always eager 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedSisso&show_icons=true&theme=radical&locale=en&layout=compact" alt="shakedSisso" /> 
 <img width="69%" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&theme=radical&show_icons=true&include_all_commits=true" alt="shakedSisso" />
 </p>
-
----
-
-## Education
-
-- **Diploma in Practical Engineering** (2024-Present)  
-  Kinneret Technology College | Tsemach, IL
-- **Magshimim Program** (2021-2024)  
-  National Cyber Security Program | Certificate of Excellence
-
----
-
-[LinkedIn- Shaked Sisso](http://www.linkedin.com/in/shakedsisso/)
