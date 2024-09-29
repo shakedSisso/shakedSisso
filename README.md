@@ -19,8 +19,8 @@ Motivated software developer skilled in **C/C++, Python, and C#**, always eager 
 
 - 🌱 Currently studying: **Practical Engineering** in ICT & Cyber Applications
 - 🔭 I'm working on: Collaborative development tools and mobile games
-- 📫 Reach me: [sisso1011@gmail.com](mailto:sisso1011@gmail.com) | (+972) 52-232-9672
-- ⚡ Fun fact: I volunteered as a student mentor, guiding others in advanced programming concepts!
+- 📫 Reach me: [sisso1011@gmail.com](mailto:sisso1011@gmail.com)
+- ⚡ Fun fact: I volunteered as a student mentor, guiding 17 year-olds in advanced programming concepts!
 
 ---
 
@@ -59,4 +59,4 @@ Motivated software developer skilled in **C/C++, Python, and C#**, always eager 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shaked-sisso-910994264/) | [GitHub](https://github.com/shakedSisso)
+[LinkedIn](https://www.linkedin.com/in/shaked-sisso-910994264/)
