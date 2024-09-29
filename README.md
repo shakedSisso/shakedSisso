@@ -44,13 +44,15 @@ Motivated software developer skilled in **C/C++, Python, and C#**, always eager 
 - **Stack**: C#, Xamarin.Android, Firebase  
 - Created a mobile app with games like **2048**, **Simon**, and a multi-level memory game.
 
-<!--
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakedSisso&show_icons=true&theme=radical)
+## Stats 📈
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedSisso&show_icons=true&theme=radical&locale=en&layout=compact" alt="shakedSisso" /> 
+<img width="69%" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&theme=radical&show_icons=true&include_all_commits=true" alt="shakedSisso" />
+</p>
 
 ---
--->
 
 ## Education
 
@@ -61,4 +63,4 @@ Motivated software developer skilled in **C/C++, Python, and C#**, always eager 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shaked-sisso-910994264/)
+[LinkedIn- Shaked Sisso](http://www.linkedin.com/in/shakedsisso/)
