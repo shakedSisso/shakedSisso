@@ -89,7 +89,7 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
   <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/>
 </p>
 - Developed a full-stack app with real-time text syncing between users on a Debian VM.<br/>
-- Used <i>`child-process`<i/> to check for <b>GCC</b>, compile, and run user code.
+- Used <b><i>`child-process`</i></b> to check for <b>GCC</b>, compile, and run user code.
 
 ### Mini-Games App
 <p align="left">
