@@ -105,5 +105,5 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 ## ⚙️ GitHub Analytics
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedSisso&show_icons=true&theme=radical&locale=en&layout=compact" alt="shakedSisso" /> 
-<img width="69%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shakedSisso&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="shakedSisso" />
+<img width="69%" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="shakedSisso" />
 </p>
