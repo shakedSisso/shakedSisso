@@ -1,4 +1,4 @@
-<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shaked Sisso!</h1>
+<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <b>Shaked Sisso</b>!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </p>
 Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, always eager to learn new technologies and tackle exciting challenges.
 
