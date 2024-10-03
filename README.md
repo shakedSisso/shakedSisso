@@ -1,5 +1,6 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <br/>
-<div align="center"><img src="https://images.cooltext.com/5710933.png" width="426" height="106" alt="Shaked Sisso" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </div></h1>
+<div align="center"><img src="https://images.cooltext.com/5710933.png" width="426" height="106" alt="Shaked Sisso" /> </div></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </p>
 Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, always eager to learn new technologies and tackle exciting challenges.
 
 - 🌱 Currently studying: **Practical Engineering** in ICT & Cyber Applications
