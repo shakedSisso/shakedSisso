@@ -90,9 +90,9 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedSisso&show_icons=true&theme=dracula&locale=en&layout=pie&size_weight=0.5&count_weight=0.5" alt="Github Top Languages" />
       </td>
       <td>
-        <img width="425px" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=contribs" alt="Github Stats" />
+        <img width="495px" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=contribs" alt="Github Stats" />
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=shakedSisso&theme=dracula&card_width=425&card_height=155&type=png" alt="GitHub Streak"/>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shakedSisso&theme=dracula" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
