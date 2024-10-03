@@ -1,5 +1,5 @@
-<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <b>Shaked Sisso</b>!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </p>
+<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <br/>
+<div align="center"><img src="https://images.cooltext.com/5710933.png" width="426" height="106" alt="Shaked Sisso" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </div></h1>
 Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, always eager to learn new technologies and tackle exciting challenges.
 
 - 🌱 Currently studying: **Practical Engineering** in ICT & Cyber Applications
@@ -91,7 +91,7 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
       <td>
         <img width="425px" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=contribs" alt="Github Stats" />
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=shakedSisso&theme=dracula&card_width=425&card_height=150&type=png" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=shakedSisso&theme=dracula&card_width=425&card_height=155&type=png" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
