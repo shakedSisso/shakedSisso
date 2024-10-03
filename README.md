@@ -1,18 +1,3 @@
-<!--
-**shakedSisso/shakedSisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shaked Sisso!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedSisso" alt="shakedSisso" /> </p>
 Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, always eager to learn new technologies and tackle exciting challenges.
@@ -25,14 +10,6 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 - ⚡ Fun fact: I volunteered as a student mentor, guiding younger teens in advanced programming concepts!
 
 ---
-<!--
-## 🛠️ Skills & Tools
-
-- **Languages**: C/C++, C#, Python, JavaScript, HTML, CSS, Assembly (x86/x64)
-- **Frameworks**: Electron.js, Xamarin.Android, WinForm, WPF
-- **Tools**: Git, VS Code, Visual Studio, PyCharm
-- **Databases**: MongoDB, SQLite, Firebase
--->
 
 ## 🛠️ Skills & Tools
 
@@ -105,8 +82,18 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 ---
 
 ## ⚙️ GitHub Analytics
-<p align="center">
-  <img heigth="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedSisso&show_icons=true&theme=dracula&locale=en&layout=pie&size_weight=0.5&count_weight=0.5" alt="shakedSisso" /> 
-  <br/>
-  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shakedSisso&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=contribs&include_all_commits=true" alt="shakedSisso" />
-</p>
+<div align="center">
+  <table border="none">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedSisso&show_icons=true&theme=dracula&locale=en&layout=pie&size_weight=0.5&count_weight=0.5" alt="Github Top Languages" />
+      </td>
+      <td>
+        <img width="425px" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=contribs" alt="Github Stats" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=shakedSisso&theme=dracula&card_width=425&card_height=150&type=png" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
