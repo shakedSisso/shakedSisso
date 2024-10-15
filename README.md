@@ -69,7 +69,7 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 - Developed a full-stack app with real-time text syncing between users on a Debian VM.<br/>
 - Used <b><i>`child-process`</i></b> to check for <b>GCC</b>, compile, and run user code.
 
-### Mini-Games App
+### [Mini-Games App](https://github.com/shakedSisso/Mini-Games)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" width="30" height="30" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=firebase" width="30" height="30" alt="Firebase"/>
