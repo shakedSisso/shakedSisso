@@ -76,6 +76,7 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="30" height="30" alt="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" width="30" height="30" alt="xamarin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40" alt="XML" />
+  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/>
 </p>
 - Created a mobile app with games like <b>2048, Simon, and a multi-level memory game</b>.<br/>
 - Included features like dark/light mode and accesibiity
