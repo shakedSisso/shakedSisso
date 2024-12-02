@@ -94,7 +94,7 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
       <td>
         <img width="495px" src="https://github-readme-stats.vercel.app/api?username=shakedSisso&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=contribs&include_all_commits=true" alt="Stats" />
         <br/>
-        <img src="https://streak-stats.demolab.com/?user=shakedSisso&theme=dracula" alt="Streak"/>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-rust.vercel.app?user=shakedSisso&theme=dracula" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
