@@ -4,7 +4,6 @@
 Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, always eager to learn new technologies and tackle exciting challenges.
 
 - 🌱 Currently studying: **Practical Engineering** in ICT & Cyber Applications
-- 🔭 I'm working on: Collaborative development tools and mobile games
 - 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-shakedsisso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakedsisso/)](https://www.linkedin.com/in/shakedsisso/)
 [![Gmail Badge](https://img.shields.io/badge/-sisso1011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sisso1011@gmail.com)](mailto:sisso1011@gmail.com)
 
@@ -48,6 +47,7 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
 </p>
 
