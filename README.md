@@ -14,44 +14,19 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 ## 🛠️ Skills & Tools
 
   ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-  <img src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" width="40" height="45" alt="Assembly" />
-  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40" alt="XML" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css)](https://skillicons.dev)
 
 ### Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=electron" width="40" height="40" alt="Electron.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="30" height="30" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" width="30" height="30" alt="xamarin"/>
-  <img src="https://bluemarkacademy.com/wp-content/uploads/2020/12/winform-logo.jpg" width="35" height="35" alt="WinForm" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7hGZcjZnCLYVEK68c3_kLFo5R079h94Mq-vsF8bfcmr7eUyqOubuAX__dXZr-Gkz-V0&usqp=CAU" width="35" height="35" alt="WPF" />
-</p>
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,electron,react,express,bootstrap,dotnet)](https://skillicons.dev)
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="PyCharm" />
-</p>
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,arduino,figma,postman)](https://skillicons.dev)
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-</p>
+[![Database](https://skillicons.dev/icons?i=mongodb,sqlite,mysql,firebase)](https://skillicons.dev)
 
-
+### Operating Systems
+[![Operating systems](https://skillicons.dev/icons?i=linux,debian,kali,windows)](https://skillicons.dev)
 ---
 
 ## 💻 Projects
@@ -71,16 +46,18 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 - Used <b><i>`child-process`</i></b> to check for <b>GCC</b>, compile, and run user code.
 
 ### [Mini-Games App](https://github.com/shakedSisso/Mini-Games)
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=cs" width="30" height="30" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=firebase" width="30" height="30" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="30" height="30" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" width="30" height="30" alt="xamarin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="40" height="40" alt="XML" />
   <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="30" height="30" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="30" height="30" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" width="30" height="30" alt="xamarin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="30" height="30" alt="Android"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Figma"/>
 </p>
-- Created a mobile app with games like <b>2048, Simon, and a multi-level memory game</b>.<br/>
-- Included features like dark/light mode and accesibiity
+- Created a mobile app with games like <b>2048, Simon, and a Multi-Level Memory game</b>.<br/>
+- Included features like dark/light mode and accessibiity
 
 ---
 
