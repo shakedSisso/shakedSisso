@@ -5,7 +5,6 @@ Motivated software developer skilled in <b><i>C/C++, Python, and C#</i></b>, alw
 
 - 🌱 Currently studying: **Practical Engineering** in ICT & Cyber Applications
 - 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-shakedsisso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakedsisso/)](https://www.linkedin.com/in/shakedsisso/)
-[![Gmail Badge](https://img.shields.io/badge/-sisso1011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sisso1011@gmail.com)](mailto:sisso1011@gmail.com)
 
 - ⚡ Fun fact: I volunteered as a student mentor, guiding younger teens in advanced programming concepts!
 
